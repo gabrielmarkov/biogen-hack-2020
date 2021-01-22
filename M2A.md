@@ -1,5 +1,5 @@
 ## Personne contact
-Gabriel MARKOV (GitHub: gabrielmarkov)
+Gabriel MARKOV (GitHub: [gabrielmarkov](https://github.com/gabrielmarkov))
 
 ## Participants
 Chaque collaboration est la bienvenue !
